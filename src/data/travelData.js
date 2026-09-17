@@ -22,3 +22,5 @@ export const initialTrips = [
   { id: 2, destination: "Agra", dates: "Mar 03 – Mar 05, 2026", status: "Completed", reviewed: true, image: "/assets/agra.jpg" },
   { id: 3, destination: "Kerala", dates: "Aug 20 – Aug 25, 2025", status: "Completed", reviewed: true, image: "/assets/alleppey.jpg" }
 ];
+
+
