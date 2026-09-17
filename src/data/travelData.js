@@ -8,7 +8,7 @@ export const destinations = [
   { id: 7, name: "Kashmir", state: "Jammu & Kashmir", rating: 4.8, type: "Mountains", image: "/assets/manali.jpg" },
   { id: 8, name: "Andaman", state: "Andaman & Nicobar", rating: 4.7, type: "Beaches", image: "/assets/goa.jpg" },
   { id: 9, name: "Coorg", state: "Karnataka", rating: 4.6, type: "Nature", image: "/assets/alleppey.jpg" }
-];
+] ;
 
 export const packages = [
   { id: 1, name: "Kashmir Escape", startDate: "2026-10-10", endDate: "2026-10-14", days: 5, duration: "5 Days / 4 Nights", price: 18999, rating: 4.8, image: "/assets/manali.jpg", description: "A scenic Kashmir journey through mountain landscapes, lakes and memorable local experiences.", places: [destinations[6]] },
